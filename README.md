@@ -4,8 +4,8 @@ In the unlikly event that a best practice really is the best practice, its even 
 
 Detta repo består av följande sub-kategorier
 
-* [General](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/README.md)
-* [Coding](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/CODING.md)
-* [Pitfalls](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/PITFALLS.md)
-* [Learing](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/LEARNING.md)
+## [General](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/GENERAL.md)
+## [Coding](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/CODING.md)
+## [Pitfalls](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/PITFALLS.md)
+## [Learing](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/LEARNING.md)
 
