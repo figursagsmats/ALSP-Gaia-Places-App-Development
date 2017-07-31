@@ -1,27 +1,18 @@
 # ALSP for coding
-This readme provides examples of pitfalls we've enountered when developing Places Apps in Xamarin Forms
+Coding 
 
 
-## A coding rule
+## An example coding rule
 **STATUS:** Proposed
-Here Tobster will provide an example of the dangers of using the async keyword
 
-Somed code
+Describe the situation in which this rule apply
 
-```
-Give the example
-```
 
-And repeat
+### Variants
+Provide destinct examples of how to code in the described situation
 
 ```
-until finished
-```
-
-## Another another coding rule
-
-Explain what what
+first variant
 
 ```
-Give an example
-```
+second variant
