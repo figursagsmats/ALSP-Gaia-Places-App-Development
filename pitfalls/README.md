@@ -1,6 +1,5 @@
-# Project Title
-
-One Paragraph of project description goes here
+# Pitfalls
+This readme provides examples of pitfalls whe
 
 ## Getting Started
 
@@ -14,11 +13,11 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Async exits UI-thread
 
-A step by step series of examples that tell you have to get a development env running
+Here Tobster will provide an example of the dangers of using the async keyword
 
-Say what the step will be
+Somed code
 
 ```
 Give the example
@@ -30,7 +29,7 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+
 
 ## Running the tests
 

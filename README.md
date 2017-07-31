@@ -1,6 +1,6 @@
-# Project Title
+# At Least Some Practice for developing Gaia Places Apps
 
-One Paragraph of project description goes here
+This reposit
 
 ## Getting Started
 
