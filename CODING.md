@@ -3,7 +3,7 @@ This readme provides examples of pitfalls we've enountered when developing Place
 
 
 ## A coding rule
-
+**STATUS:** Proposed
 Here Tobster will provide an example of the dangers of using the async keyword
 
 Somed code
