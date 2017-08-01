@@ -2,17 +2,36 @@
 Coding 
 
 
-## An example coding rule
+## Simple Coding Guidelines
+
+### Private variables
+All private variables begin with underline
+
+```c#
+privade double _someNumber
+```
+
+## More Complex Coding Guidelines
+
+## An example of a more coding rule
 **STATUS:** Proposed
 
 Describe the situation in which this rule apply
 
 
-### Variants
+### Concrete examples
 Provide destinct examples of how to code in the described situation
 
-```
-first variant
 
+This is one way of doing
 ```
-second variant
+some code example
+```
+
+This a another way of doing it
+```
+some code example
+```
+
+## Chosen variant and why
+Descr
