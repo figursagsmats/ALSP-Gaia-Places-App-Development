@@ -4,11 +4,19 @@ Coding
 
 ## Simple Coding Guidelines
 
-### Private variables
-All private variables begin with underline
+### Variables
+For all variables we use Lower Camel Case
 
 ```cs
-privade double _someNumber
+string thisIsACorrectExample
+string ThisIsNotACorrectExample
+```
+
+### Private variables
+All private variables begin with underscore
+
+```cs
+private double _someNumber
 ```
 
 ## More Complex Coding Guidelines
