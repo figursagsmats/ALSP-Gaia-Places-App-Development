@@ -9,7 +9,7 @@ Repot är alltså indelat i olika kategorier som ser lite olika olika beroende p
 
 ## [General](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/GENERAL.md)
 
-Tekniker, mönster eller riktlinjer som tillämpas inom projektet finns beskrivna här. Viktigt här är att varje val motiveras och förklaras någorlunda väl. Detta eftersom att det underlättar för man in framtid skall försöka förstå sig på projektet.
+Tekniker, mönster eller riktlinjer som tillämpas inom projektet finns beskrivna här. Viktigt här är att varje val motiveras och förklaras någorlunda väl. Detta eftersom att det underlättar när man i framtid skall försöka förstå sig på projektet.
 
 ## [Coding](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/CODING.md)
 

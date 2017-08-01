@@ -1,12 +1,12 @@
 # Pitfalls
-This readme provides examples of pitfalls we've enountered when developing Places Apps in Xamarin Forms
+Här fyller vi på med så kallade pitfalls som vi upptäcker under utvecklandets gång. Pitfalls innebär i detta fall scenarion som innebär mycket mer svårigheter än vad man först kan ana.
 
 
 ## Async exits UI-thread
 
-Here Tobster will provide an example of the dangers of using the async keyword
+Tobbe kommer här förklara varför det ibland är farligt att använda await
 
-Somed code
+Some code
 
 ```
 Give the example
