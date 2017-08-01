@@ -21,7 +21,7 @@ private double _someNumber;
 
 ### Coding Guidelines (more complex)
 
-#### An example of a more coding rule
+#### This is an example of a coding guideline
 
 Describe the situation in which this guideline apply.
 
