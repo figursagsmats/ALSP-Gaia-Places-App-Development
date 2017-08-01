@@ -3,7 +3,9 @@
 
 Detta repo är ett försök att dokumentera de slutsatser som dras under processen med att utveckla Gaia Places-appar. Eftersom termen "best practice" är ganska osannolikt i detta fall så nöjer vi oss med idén att "some practice" är oändligt mycket bättre än "no practice". Tanken är därför att kontiunerligt uppdatera detta repo med vad som är en gemensam ALSP (At Least Some Practice) på ett någorlunda demokratiskt vis (via pull requests).
 
-Repot är indelat i olika kategorier som ser lite olika olika beroende på vad de berör:
+För att bidra till detta repo behövs således endast [rudimentär kunskap](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) GitHub Flavored Markdown, git samt en genomläsning av de instruktioner som finns under varje kategori.
+
+Repot är alltså indelat i olika kategorier som ser lite olika olika beroende på vad de berör:
 
 ## [General](https://github.com/figursagsmats/ALSP-Gaia-Places-App-Development/blob/master/GENERAL.md)
 
@@ -21,4 +23,3 @@ Till väldigt stor del en självförklarande rubrik.
 
 Här samlar vi länkar till resurser som gör det lätt för nytillkommna utvecklare att sätta sig in i de tekniker vi använder
 
-För att bidra till detta repo behövs endast [rudimentär kunskap](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) GitHub Flavored Markdown samt en genomläsning av de instruktioner som finns under varje kategori.
