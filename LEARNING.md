@@ -10,6 +10,12 @@ Om du är helt ny till Xamarin Forms så är denna kurs bra:
 
 Fråga GLA om inlogg för att komma åt den.
 
+För att sedan få lite bättre koll är denna kurs bra
+
+[Moving Beyond the Basics with Xamarin.Forms](https://app.pluralsight.com/library/courses/xamarin-forms-moving-beyond-basics/table-of-contents)
+
+Fråga knutte eller GLA om inlogg
+
 ## MVVM
 
 För att underlätta så har jag i helgen tittat igenom flertalet kurser i ämnet och konstaterat att denna är bäst:
