@@ -1,7 +1,5 @@
 # General ALSP
 
-In the unlikly event that a best practice really is the best practice, its even more unlikly that we would come up with. That beeing said, some practice is better than no practice, therefore this repo is dedicted to providing exaclty that.
-
 Each section of this document covers some technique, pattern or guidelines chosen to be used in the project. A section should contain the following:
 
 * Description of the technique (if not invented or modified this is probably just a link)
@@ -11,7 +9,7 @@ Each section of this document covers some technique, pattern or guidelines chose
 
 ## Xamarin Forms
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The main framwork used when building Gaia Places Apps is Xamrin Forms. 
 
 ### Why?
 

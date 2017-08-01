@@ -2,26 +2,21 @@
 This readme provides examples of pitfalls we've enountered when developing Places Apps in Xamarin Forms
 
 
-## Async exits UI-thread
+## Xamarin Forms
 
-Here Tobster will provide an example of the dangers of using the async keyword
+Om du är helt ny till Xamarin Forms så är denna kurs bra:
 
-Somed code
+[Xamarin Forms: Build Native Cross-platform Apps with C#](https://www.udemy.com/xamarin-forms-course/learn/v4/overview)
 
-```
-Give the example
-```
+Fråga GLA om inlogg för att komma åt den.
 
-And repeat
+## MVVM
 
-```
-until finished
-```
+För att underlätta så har jag i helgen tittat igenom flertalet kurser i ämnet och konstaterat att denna är bäst:
 
-## Another pitfall
+[WPF MVVM In Depth](https://app.pluralsight.com/library/courses/wpf-mvvm-in-depth/table-of-contents)
+ 
 
-Explain what what
+Som ni kommer märka så avser kursen MVVM i WPF och inte Xamarin Forms. Men frukta icke! Jag har även tagit mig igenom en hel kurs i WPF och kan meddela att Xamarin Forms och WPF är väldigt lika! Nästan alla koncept som finns Xamarin Forms har en motsvarighet i WPF. Namnen är ibland olika vilket kan vara förvirrande, men för att förstå grundkoncepten i MVVM så funkar kursen mycket bra.
 
-```
-Give an example
-```
+Vi använder även ett bibliotek för att främja MVVM inom våra applikationer. Detta bibliotek heter [PrismLibrary](https://github.com/PrismLibrary/Prism) och man kan få snabb introduktion till detta genom att kolla på [denna](https://www.youtube.com/watch?v=DYRLcqG2BAY) video.
