@@ -10,15 +10,15 @@
 For all variables we use Lower Camel Cases
 
 ```cs
-string thisIsACorrectExample
-string ThisIsNotACorrectExample
+string thisIsACorrectExample;
+string ThisIsNotACorrectExample;
 ```
 
 #### Private variables
 All private variables begin with underscore
 
 ```cs
-private double _someNumber
+private double _someNumber;
 ```
 
 ### More Coding Guidelines
