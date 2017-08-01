@@ -7,19 +7,19 @@ Coding
 ### Private variables
 All private variables begin with underline
 
-```c#
+```cs
 privade double _someNumber
 ```
 
 ## More Complex Coding Guidelines
 
-## An example of a more coding rule
+### An example of a more coding rule
 **STATUS:** Proposed
 
 Describe the situation in which this rule apply
 
 
-### Concrete examples
+#### Concrete examples
 Provide destinct examples of how to code in the described situation
 
 
@@ -33,5 +33,5 @@ This a another way of doing it
 some code example
 ```
 
-## Chosen variant and why
+### Chosen variant and why
 Descr
