@@ -5,7 +5,7 @@ Coding
 ## Simple Coding Guidelines
 
 ### Variables
-For all variables we use Lower Camel Case
+For all variables we use Lower Camel Cases
 
 ```cs
 string thisIsACorrectExample
@@ -22,7 +22,6 @@ private double _someNumber
 ## More Complex Coding Guidelines
 
 ### An example of a more coding rule
-**STATUS:** Proposed
 
 Describe the situation in which this rule apply
 
@@ -41,5 +40,5 @@ This a another way of doing it
 some code example
 ```
 
-### Chosen variant and why
+#### Chosen variant and why
 Descr
