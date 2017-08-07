@@ -28,3 +28,8 @@ För att underlätta så har jag tittat igenom flertalet kurser i ämnet och kon
 Som ni kommer märka så avser kursen MVVM i WPF och inte Xamarin Forms. Men frukta icke! Jag har även tagit mig igenom en hel kurs i WPF och kan meddela att Xamarin Forms och WPF är väldigt lika! Nästan alla koncept som finns Xamarin Forms har en motsvarighet i WPF. Namnen är ibland olika vilket kan vara förvirrande, men för att förstå grundkoncepten i MVVM så funkar kursen mycket bra.
 
 Vi använder även ett bibliotek för att främja MVVM inom våra applikationer. Detta bibliotek heter [PrismLibrary](https://github.com/PrismLibrary/Prism) och man kan få snabb introduktion till detta genom att kolla på [denna](https://www.youtube.com/watch?v=DYRLcqG2BAY) video.
+
+## Modern project and package manageing in Visual Studio 2017
+Att förstå och vara bekväm i .NET-platformen är ett hantverk i sig. För en nybörjare inom .NET kan det vara svårt att veta vart man ska leta för att gå en grundläggande förståelse. Nedan beskriver jag de insikter jag har fått påvägen från 0 till att ändå fatta något.
+
+Vad innebär .NET? Och vad är det för skillnad på .NET och .NET Core? Vad är 
