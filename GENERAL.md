@@ -16,14 +16,8 @@ Xamarin.Forms is code once deploy alla solution which many people is sceptical a
 ## MVVM
 
 ## Why?
-MVVM anses av många vara best practice för att utveckla WPF-appar, och eftersom WPF och Xamarin.Forms har stora likheter, verkar det som ett rimligt förslag att nyttja detta mönster vid utvecklandet av Xamarin.Forms-appar. Ytterliggare incitament är att den officiella [Xamarin.Forms-boken][https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/] har ett [kapitel][22] dedikerad till MVVM.
+MVVM anses av många vara best practice för att utveckla WPF-appar, och eftersom WPF och Xamarin.Forms har stora likheter, verkar det som ett rimligt förslag att nyttja detta mönster vid utvecklandet av Xamarin.Forms-appar. Ytterliggare incitament är att den officiella [Xamarin.Forms-boken](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) har ett [kapitel](https://xamarin.azureedge.net/developer/xamarin-forms-book/XamarinFormsBook-Ch18-Apr2016.pdf) dedikerat till MVVM.
 
-MVVM har funnits länge och används fortfarande, även om en del tyder på att MVC/MVVM-liknande patters kanske är påväg att [erättas][25] av [flux][26]-liknande arkitekturiska mönster, så är ersättarna i många fall [fortfarande under utvärdering][27] och kan därmed inte enkelt implementeras med säkert resultat i Xamarin. MVVM kanske inte är bäst, men some practice is better than no practice.
-
-[21]:(https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
-[22]:(https://xamarin.azureedge.net/developer/xamarin-forms-book/XamarinFormsBook-Ch18-Apr2016.pdf)
-[25]:(xhttp://www.michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/)
-[26]:(http://blog.andrewray.me/flux-for-stupid-people/)
-[27]:(https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7)
+MVVM har funnits länge och används fortfarande, även om en del tyder på att MVC/MVVM-liknande patters kanske är påväg att [erättas](xhttp://www.michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/) av [flux](http://blog.andrewray.me/flux-for-stupid-people/)-liknande arkitekturiska mönster, så är ersättarna i många fall [fortfarande under utvärdering](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7) och kan därmed inte enkelt implementeras med säkert resultat i Xamarin. MVVM kanske inte är bäst, men some practice is better than no practice.
 
 ## Prism
